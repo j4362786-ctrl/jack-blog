@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://j4362786-ctrl.github.io/jack-blog/sitemap.xml
